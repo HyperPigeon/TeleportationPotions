@@ -1,2 +1,2 @@
 # TeleportationPotions
-A mod that adds recall and wormhole potions inspired by Terraria to Minecraft.
+A mod that adds recall potions inspired by Terraria to Minecraft.
