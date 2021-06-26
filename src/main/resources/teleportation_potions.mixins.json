@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.hyper_pigeon.teleportation_potions.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "PotionItemMixin"
+  ],
+  "client": [
+    
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
