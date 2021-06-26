@@ -14,7 +14,7 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/teleportation_potions/textures/items/recall_potion.png",
+  "icon": "assets/teleportation_potions/textures/item/recall_potion.png",
 
   "environment": "*",
   "entrypoints": {
