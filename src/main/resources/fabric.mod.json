@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Teleportation Potions",
-  "description": "A mod that adds recall and wormhole potions inspired by Terraria to Minecraft",
+  "description": "A mod that adds recall potions inspired by Terraria to Minecraft",
   "authors": [
     "Hyper_Pigeon"
   ],
