@@ -4,31 +4,33 @@
   "version": "${version}",
 
   "name": "Teleportation Potions",
-  "description": "A mod that adds recall potions and magic mirrors inspired by Terraria to Minecraft",
+  "description": "A mod that adds recall potions inspired by Terraria to Minecraft",
   "authors": [
-    "Hyper_Pigeon",
-    "Nukebob3"
+    "Hyper_Pigeon"
   ],
   "contact": {
-    "homepage": "https://github.com/Nukebob3",
-    "sources": "https://github.com/Nukebob3/TeleportationPotions"
+    "homepage": "https://github.com/HyperPigeon",
+    "sources": "https://github.com/HyperPigeon/TeleportationPotion"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/teleportation_potions/icon.png",
+  "icon": "assets/teleportation_potions/textures/item/recall_potion.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.nukebob.teleportation_potions.TeleportationPotions"
+      "net.hyper_pigeon.teleportation_potions.TeleportationPotions"
     ]
   },
+  "mixins": [
+    "teleportation_potions.mixins.json"
+  ],
 
   "depends": {
-    "fabricloader": ">=0.16.9",
+    "fabricloader": ">=0.11.3",
     "fabric": "*",
-    "minecraft": "1.21.5",
-    "java": ">=21"
+    "minecraft": "1.17.x",
+    "java": ">=16"
   },
   "suggests": {
     "another-mod": "*"
