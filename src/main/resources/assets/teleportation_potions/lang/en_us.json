@@ -1,3 +1,6 @@
 {
-  "item.teleportation_potions.recall_potion": "Recall Potion"
+  "item.teleportation_potions.recall_potion": "Recall Potion",
+  "item.teleportation_potions.magic_mirror": "Magic Mirror",
+
+  "itemgroup.teleportation_potions.tp": "Teleportation Potion Items"
 }

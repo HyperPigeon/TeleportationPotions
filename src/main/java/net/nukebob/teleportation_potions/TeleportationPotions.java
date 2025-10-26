@@ -1,7 +1,7 @@
-package net.hyper_pigeon.teleportation_potions;
+package net.nukebob.teleportation_potions;
 
 import net.fabricmc.api.ModInitializer;
-import net.hyper_pigeon.teleportation_potions.init.TeleportationPotionsItems;
+import net.nukebob.teleportation_potions.init.TeleportationPotionsItems;
 
 public class TeleportationPotions implements ModInitializer {
 	@Override
