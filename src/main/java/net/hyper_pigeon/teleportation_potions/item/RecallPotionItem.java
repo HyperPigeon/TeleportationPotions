@@ -1,4 +1,4 @@
-package net.nukebob.teleportation_potions.item;
+package net.hyper_pigeon.teleportation_potions.item;
 
 import net.minecraft.advancement.criterion.Criteria;
 import net.minecraft.entity.LivingEntity;

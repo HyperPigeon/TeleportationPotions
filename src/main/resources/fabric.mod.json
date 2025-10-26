@@ -10,8 +10,8 @@
     "Nukebob3"
   ],
   "contact": {
-    "homepage": "https://github.com/Nukebob3",
-    "sources": "https://github.com/Nukebob3/TeleportationPotions"
+    "homepage": "https://github.com/HyperPigeon",
+    "sources": "https://github.com/HyperPigeon/TeleportationPotions"
   },
 
   "license": "CC0-1.0",
@@ -20,7 +20,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.nukebob.teleportation_potions.TeleportationPotions"
+      "net.hyper_pigeon.teleportation_potions.TeleportationPotions"
     ]
   },
 
