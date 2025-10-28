@@ -1,4 +1,4 @@
-package net.nukebob.teleportation_potions.init;
+package net.hyper_pigeon.teleportation_potions.init;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.component.DataComponentTypes;
@@ -12,8 +12,8 @@ import net.minecraft.registry.RegistryKey;
 import net.minecraft.registry.RegistryKeys;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
-import net.nukebob.teleportation_potions.item.MagicMirrorItem;
-import net.nukebob.teleportation_potions.item.RecallPotionItem;
+import net.hyper_pigeon.teleportation_potions.item.MagicMirrorItem;
+import net.hyper_pigeon.teleportation_potions.item.RecallPotionItem;
 
 import java.util.function.Function;
 
